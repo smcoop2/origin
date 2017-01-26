@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+A super secret Git file is created with all the neccasary data to make commits and view logs.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Nothing has officially been committed or saved in the staging area. It is merely a place to isolate that which has changed from that which has not changed.
+
