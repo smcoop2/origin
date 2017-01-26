@@ -42,7 +42,7 @@ If something breaks, you can easily isolate the problem and fix it.
 
 
 
-\Now that you have your workspace set up, what do you want to try using Git for?
+Now that you have your workspace set up, what do you want to try using Git for?
 
     
 Fill in your answer here
