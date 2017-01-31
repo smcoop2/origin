@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Branches let you work on master without potentially screwing up master. They are safe places to expirement. Finally, when/if you want to merge your branch with master you can do a pull request or just merge if you own the master. 
